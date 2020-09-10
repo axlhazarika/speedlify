@@ -5,6 +5,6 @@ module.exports = {
 		frequency: 60 * 23, // (in minutes), 23 hours
 	},
 	urls: [
-		"https://www.axlhazarika.in/"
+		"https://www.dev.to/"
 	]
 };
