@@ -5,6 +5,6 @@ module.exports = {
 		frequency: 60 * 23, // (in minutes), 23 hours
 	},
 	urls: [
-		"https://delightful-pebble-06bd83010.azurestaticapps.net/"
+		"https://axlhazarika.vercel.app/"
 	]
 };
